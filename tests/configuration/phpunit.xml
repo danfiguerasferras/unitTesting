@@ -1,0 +1,8 @@
+<phpunit>
+    <filter>
+        <whitelist>
+            <directory suffix=".php">../../entities</directory>
+            <directory suffix=".php">../</directory>
+        </whitelist>
+    </filter>
+</phpunit>
